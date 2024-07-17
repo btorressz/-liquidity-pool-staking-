@@ -8,6 +8,10 @@ This project is currently a prototype and is under active development. It is not
 
 This project implements a Liquidity Pool Staking program on the Solana blockchain using the Anchor framework. Users can stake their LP tokens, earn rewards, and claim governance tokens based on their staked amounts and staking durations.
 
+Note: This is a prototype project and is not intended for production use yet. The code and contracts are subject to change and should not be used on mainnet or for any real transactions.
+
+
+
 ## Features
 
 - **Staking Functionality**: Users can stake LP tokens with a specified lock-up period.
