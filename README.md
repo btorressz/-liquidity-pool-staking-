@@ -41,6 +41,6 @@ Anchor
 Solana
 
 ## Tools
-Solana Playground IDE: Used for initial development and testing of Solana programs. It provides an easy-to-use interface to write, deploy, and test Solana smart contracts without needing extensive local setup.
+Solana Playground IDE: Used for initial development and testing of Solana programs. It provides an easy-to-use interface to write, deploy, and test Solana smart contracts without needing extensive local setup.(This project was 100% developed in solana playground IDE and coverted and exported for VSCode)
 
 VSCode: Used for advanced development and editing. VSCode provides powerful extensions for Rust, TypeScript, and Solana development, allowing for a more integrated and efficient coding environment.
