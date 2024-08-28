@@ -2,8 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, TokenAccount, Token};
 
 
-// This is your program's public key and it will update
-// automatically when you build the project.
+//Program ID
 declare_id!("DjY4jUtRVQnw57KfRhwbSH1FCgrN8iu5ruhDGePfif64");
 
 
